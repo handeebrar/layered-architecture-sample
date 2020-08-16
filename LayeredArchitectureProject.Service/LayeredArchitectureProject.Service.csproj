@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LayeredArchitectureProject.Data\LayeredArchitectureProject.Data.csproj" />
+    <ProjectReference Include="..\LayeredArchitectureProject.Entity\LayeredArchitectureProject.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

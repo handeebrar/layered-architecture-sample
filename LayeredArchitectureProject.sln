@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Entity", "TechnicalCaseProject.Entity\LayeredArchitectureProject.Entity.csproj", "{51E6C99D-DF27-477E-885C-B0D76B7AC8D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Entity", "LayeredArchitectureProject.Entity\LayeredArchitectureProject.Entity.csproj", "{51E6C99D-DF27-477E-885C-B0D76B7AC8D3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Data", "TechnicalCaseProject.Data\LayeredArchitectureProject.Data.csproj", "{0F3666C9-9CCF-4A02-B610-60AEA0F41D1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Data", "LayeredArchitectureProject.Data\LayeredArchitectureProject.Data.csproj", "{0F3666C9-9CCF-4A02-B610-60AEA0F41D1A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Service", "TechnicalCaseProject.Service\LayeredArchitectureProject.Service.csproj", "{F1CB75FF-2062-4A92-BAA0-21FE6BAE7527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Service", "LayeredArchitectureProject.Service\LayeredArchitectureProject.Service.csproj", "{F1CB75FF-2062-4A92-BAA0-21FE6BAE7527}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Api", "TechnicalCaseProject.Api\LayeredArchitectureProject.Api.csproj", "{0A09374A-BBA6-4494-A300-A7FDF3CB57C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayeredArchitectureProject.Api", "LayeredArchitectureProject.Api\LayeredArchitectureProject.Api.csproj", "{0A09374A-BBA6-4494-A300-A7FDF3CB57C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TechnicalCaseProject.Entity\LayeredArchitectureProject.Entity.csproj" />
-    <ProjectReference Include="..\TechnicalCaseProject.Entity\TechnicalCaseProject.Entity.csproj" />
+    <ProjectReference Include="..\LayeredArchitectureProject.Entity\LayeredArchitectureProject.Entity.csproj" />
+    <ProjectReference Include="..\LayeredArchitectureProject.Entity\LayeredArchitectureProject.Entity.csproj" />
   </ItemGroup>
 
 </Project>

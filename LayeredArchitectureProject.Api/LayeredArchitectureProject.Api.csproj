@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TechnicalCaseProject.Data\LayeredArchitectureProject.Data.csproj" />
-    <ProjectReference Include="..\TechnicalCaseProject.Entity\TechnicalCaseProject.Entity.csproj" />
-    <ProjectReference Include="..\TechnicalCaseProject.Service\LayeredArchitectureProject.Service.csproj" />
+    <ProjectReference Include="..\LayeredArchitectureProject.Data\LayeredArchitectureProject.Data.csproj" />
+    <ProjectReference Include="..\LayeredArchitectureProject.Entity\LayeredArchitectureProject.Entity.csproj" />
+    <ProjectReference Include="..\LayeredArchitectureProject.Service\LayeredArchitectureProject.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>
