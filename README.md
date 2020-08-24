@@ -6,4 +6,4 @@ A web api that includes product listing, add items to cart and cart display endp
 * Layered Architecture
 * Swagger
 
-![This is a alt text.](/img/swaggerui.png "Swagger ui")
+![](/img/swaggerui.PNG "Swagger ui")
