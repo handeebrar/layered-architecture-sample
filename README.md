@@ -1,3 +1,9 @@
 # layered-architecture-sample
 
-An example of layered architecture where we can add products to a cart
+A web api that includes product listing, add items to cart and cart display endpoints using
+* .Net Core
+* Entity Framework Core
+* Layered Architecture
+* Swagger
+
+![This is a alt text.](/img/swaggerui.png "Swagger ui")
